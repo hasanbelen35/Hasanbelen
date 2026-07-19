@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work on Frontend Technologies.
+I'm currently work on FullStack Webn and Mobile Technologies.
 
 
 ## 🌐 Socials:
